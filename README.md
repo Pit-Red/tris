@@ -1,5 +1,5 @@
 ## Set up the venv:
 `./setup.sh`
 
-## Run the code
+## Run the code:
 `./start.sh`
